@@ -24,4 +24,7 @@ public class Student {
 		this.idCard = idCard;
 	}
 	
+	public static void main(String[] args) {
+		System.out.println("testGit 1111");
+	}
 }
